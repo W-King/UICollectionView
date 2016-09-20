@@ -316,7 +316,6 @@
 			isa = PBXGroup;
 			children = (
 				57F402031D911BE900A4A41D /* View */,
-				57F402021D911BA100A4A41D /* Model */,
 				57F402001D911B8600A4A41D /* ViewController */,
 			);
 			path = MainVC;
@@ -329,13 +328,6 @@
 				57F402251D911C0500A4A41D /* HomeViewController.m */,
 			);
 			path = ViewController;
-			sourceTree = "<group>";
-		};
-		57F402021D911BA100A4A41D /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
 			sourceTree = "<group>";
 		};
 		57F402031D911BE900A4A41D /* View */ = {
